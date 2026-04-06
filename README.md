@@ -77,9 +77,9 @@
 <!-- GITHUB STATS -->
 <h3 align="left">📊 My GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamaranis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Kamaranis' GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnbarTop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="AnbarTop' GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamaranis&layout=compact&langs_count=8&theme=dracula" alt="Top Languages by Kamaranis" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnbarTop&layout=compact&langs_count=8&theme=dracula" alt="Top Languages by AnbarTop" />
 </p>
 
 ---
